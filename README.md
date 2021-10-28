@@ -1,2 +1,2 @@
 # UC_demo_wp
-https://github.com/MargieTest/UC_demo_wp/
+https://margietest.github.io/UC_demo_wp/
